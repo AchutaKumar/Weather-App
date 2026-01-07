@@ -94,7 +94,7 @@ body::before{
 
 }
 .weather-img{
-    background: url(./assets/assets/weather/clouds.svg);
+    background: url(./assets/weather/clouds.svg);
     /* border: solid white; */
     height: 6rem;
     width: 6rem;
@@ -125,7 +125,7 @@ body::before{
     justify-content: center;
 }
 .search-city-img{
-    background: url(./assets/assets/message/search-city.png);
+    background: url(./assets/message/search-city.png);
     height: 14rem;
     width: 14rem;
     background-position: center;
@@ -153,7 +153,7 @@ body::before{
     text-align: center;
 }
 .not-found-img{
-    background: url(./assets/assets/message/not-found.png );
+    background: url(./assets/message/not-found.png );
     height: 10rem;
     width:100%;
     background-position: center;
